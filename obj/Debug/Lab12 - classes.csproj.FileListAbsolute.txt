@@ -1,0 +1,6 @@
+c:\users\chris\documents\visual studio 2015\Projects\Lab12 - classes\Lab12 - classes\bin\Debug\Lab12 - classes.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\Lab12 - classes\Lab12 - classes\obj\Debug\Lab12 - classes.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\Lab12 - classes\Lab12 - classes\bin\Debug\Lab12 - classes.exe
+c:\users\chris\documents\visual studio 2015\Projects\Lab12 - classes\Lab12 - classes\bin\Debug\Lab12 - classes.pdb
+c:\users\chris\documents\visual studio 2015\Projects\Lab12 - classes\Lab12 - classes\obj\Debug\Lab12 - classes.exe
+c:\users\chris\documents\visual studio 2015\Projects\Lab12 - classes\Lab12 - classes\obj\Debug\Lab12 - classes.pdb
