@@ -8,8 +8,8 @@ namespace Lab12___classes
 {
     abstract class Player
     {
-        public abstract string opponentName();
+        public abstract string OpponentName();
 
-        public abstract string generateRoshambo();
+        public abstract string GenerateRoshambo();
     }
 }

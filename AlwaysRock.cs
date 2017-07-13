@@ -8,13 +8,13 @@ namespace Lab12___classes
 {
     class AlwaysRock : Player
     {
-        public override string opponentName()
+        public override string OpponentName()
         {
             string opponentName = "Mr. Predictable";
             return opponentName;
         }
 
-        public override string generateRoshambo()
+        public override string GenerateRoshambo()
         {
             string opponentThrow = "Rock";
             return opponentThrow;
